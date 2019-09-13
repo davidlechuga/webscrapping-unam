@@ -1,0 +1,76 @@
+1568401522810	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mn/_m6p9jln0nj52_jlql3ncslc0000gn/T/rust_mozprofileumboH4"
+1568401526134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568401526135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568401526136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568401526136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568401532488	Marionette	INFO	Listening on port 53824
+1568401532605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568401802327	Marionette	INFO	Stopped listening on port 53824
+1568402421405	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mn/_m6p9jln0nj52_jlql3ncslc0000gn/T/rust_mozprofilexD6VAh"
+1568402425519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568402425523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568402425523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568402425524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568402432656	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+makeAddonVisible@XPIDatabase.jsm:2286:10
+addToDatabase@XPIDatabase.jsm:2213:12
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1568402432661	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+addToDatabase@XPIDatabase.jsm:2216:10
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1568402432666	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+syncWithDB@XPIProvider.jsm:671:25
+addAddon@XPIProvider.jsm:807:14
+addAddon@XPIProvider.jsm:1603:21
+install@XPIInstall.jsm:4348:17
+_activateAddon@XPIInstall.jsm:4370:7
+1568402433184	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+makeAddonVisible@XPIDatabase.jsm:2286:10
+addToDatabase@XPIDatabase.jsm:2213:12
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1568402433184	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+addToDatabase@XPIDatabase.jsm:2216:10
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1568402433186	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+syncWithDB@XPIProvider.jsm:671:25
+addAddon@XPIProvider.jsm:807:14
+addAddon@XPIProvider.jsm:1603:21
+install@XPIInstall.jsm:4348:17
+_activateAddon@XPIInstall.jsm:4370:7
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 195: Error: Unable to arm timer, the object has been finalized.
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1568402439540	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mn/_m6p9jln0nj52_jlql3ncslc0000gn/T/rust_mozprofilepXmB7e"
+1568402441013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568402441018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568402441019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568402441019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568402446720	Marionette	INFO	Listening on port 57898
+1568402446744	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568402521065	Marionette	INFO	Stopped listening on port 57898
+1568402532873	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mn/_m6p9jln0nj52_jlql3ncslc0000gn/T/rust_mozprofileKApMU2"
+1568402534433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568402534434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568402534435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568402534435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568402538106	Marionette	INFO	Listening on port 58402
+1568402538135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568402711985	Marionette	INFO	Stopped listening on port 58402
+1568403008370	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mn/_m6p9jln0nj52_jlql3ncslc0000gn/T/rust_mozprofileAITNiZ"
+1568403010702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568403010703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568403010704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568403010704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568403017941	Marionette	INFO	Listening on port 60426
+1568403018103	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568403070299	Marionette	INFO	Stopped listening on port 60426
+1568404780150	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mn/_m6p9jln0nj52_jlql3ncslc0000gn/T/rust_mozprofileD6va0G"
+1568404782485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568404782486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568404782486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568404782486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568404787602	Marionette	INFO	Listening on port 51443
+1568404787633	Marionette	WARN	TLS certificate errors will be ignored for this session
